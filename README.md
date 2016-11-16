@@ -2,6 +2,13 @@
 
 A React boilerplate for personal use. Initially created from Heroku's [https://github.com/mars/create-react-app-buildpack](create-react-buildpack); instructions here: [https://blog.heroku.com/deploying-react-with-zero-configuration](https://blog.heroku.com/deploying-react-with-zero-configuration).
 
+```
+git clone https://github.com/TiffanyLeeRusso/React-Boilerplate.git
+cd React-Boilerplate
+npm install
+npm start
+```
+
 You can find me at my website here:
 [http://tiffany.lee-russo.com](http://tiffany.lee-russo.com).
 
